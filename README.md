@@ -44,13 +44,6 @@ Python · TensorFlow · AWS SageMaker · Apache Kafka · Real-Time ML Systems ·
 ---
 
 
----
-
-### 📄 Know about my experience:
-[📑 Resume PDF](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_4f8w6mDpEgLYZAiHm_1738405041469_completion_certificate.pdf)
-
----
-
 ### 🏆 Certifications:
 - 🧠 Google AI Essentials, Generative AI (Google Cloud)
 - 📊 Data Analytics & Viz (Accenture), Prompt Engineering (AWS)

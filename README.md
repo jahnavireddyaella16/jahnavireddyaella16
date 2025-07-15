@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on:
 **AI-based Credit Risk Scoring Model @ Mizuho Financial Group**  
-[Project Link Coming Soon]()
+
 
 ### 👯 I’m looking to collaborate on:
 **Real-time ML Systems, Agentic AI Frameworks, or NLP Projects**  
@@ -32,19 +32,17 @@ Python · TensorFlow · AWS SageMaker · Apache Kafka · Real-Time ML Systems ·
 ---
 
 ### 📫 How to reach me:
-📧 jahnavi@mymailsbox.net  
+📧 jahnavi@myworkmails.com  
 📱 (269) 870-6473  
 🌐 [LinkedIn](https://www.linkedin.com/in/jahnavireddyaella)
 
 ---
 
 ### 👨‍💻 All of my projects are available at:
-🔗 **Portfolio Link** (Coming Soon)
+🔗 **Portfolio Link** (https://jahnavireddyportfolio.lovable.app/)
 
 ---
 
-### 📝 I regularly write articles on:
-📚 **Medium Blog Coming Soon**
 
 ---
 
@@ -61,8 +59,7 @@ Python · TensorFlow · AWS SageMaker · Apache Kafka · Real-Time ML Systems ·
 
 ---
 
-### ⚡ Fun fact:
-> I think I’m funny — but my models always perform better when I’m serious 🤖😂
+
 
 ---
 
